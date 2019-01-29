@@ -1,0 +1,20 @@
+
+
+ .jt, .jumbotron  {
+    margin-top:0px;
+    padding-top: 30px !important;
+    border-top:0px;
+
+    height: 20%;
+   
+} 
+
+.btn {
+    margin-right:10px;
+}
+
+.img.col-md-2 {
+
+   width: 50%;
+   height: 75%;
+}
